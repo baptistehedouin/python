@@ -6,12 +6,7 @@
 /*
   Google Fonts | Roboto by Christian Robertson | License - http://www.apache.org/licenses/LICENSE-2.0
 */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url('/static/font/KFOmCnqEu92Fr1Me5Q.ttf')format('truetype')
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
   font-family : 
